@@ -33,6 +33,17 @@ final class FileUserRepository implements UserRepository
         );
     }
 
+     public function findAll(): array
+    {
+        $usuarios = [];
+        $linhas = file($this->filePath);
+
+        foreach ($linhas as $linha) {
+            $usuarios[] = $linha; 
+        }
+
+        return $usuarios;
+    }
 
 
 }

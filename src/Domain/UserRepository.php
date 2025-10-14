@@ -11,5 +11,6 @@ interface UserRepository
      */
     public function save(array $user): void;
 
+    public function findAll(): array;
    
 }

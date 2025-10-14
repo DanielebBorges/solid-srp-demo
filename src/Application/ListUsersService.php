@@ -14,6 +14,9 @@ class ListUsersService
     {
         $this->repository = $repository;
     }
-
+ public function execute(): array
+    {
+        return $this->repository->findAll();
+    }
   
 }
