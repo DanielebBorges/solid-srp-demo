@@ -1,0 +1,5 @@
+{"name":"Barbs","email":"barbs@unimar.com","password":"$2y$10$t5ivljME7TVr1CwznOYGyuJyCSMi0SNr7sv8JiFvD8\/VucBSAo5lS"}
+{"name":"Dani","email":"dani@unimar.com","password":"$2y$10$YnqkEo9y7wPQ8rZMNOT.iuEJcpsh79QggB9qOb0FbuQInlF\/099Uu"}
+{"name":"carlos","email":"carlos@gmail.com","password":"$2y$10$vpgUP412jHJaxhm2MYzb3.3ZYthA4plAZc6EXlQooeyyODnjMrZVS"}
+{"name":"joão","email":"joao@gmail.com","password":"$2y$10$Ruqouz.w0vc1uDurSeLP8.9ZJhf5.yd2hLAg5VfiMnoeBoeXCtTWi"}
+{"name":"duda","email":"duda@gmail.com","password":"$2y$10$VqGwQ52o4DMO\/boGdETnOu4CQOMSWGAuyTl7WDdSrLPQjvi8GUWda"}
